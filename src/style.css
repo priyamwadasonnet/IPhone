@@ -1,0 +1,117 @@
+body {
+  overflow: hidden;
+  margin: 0px;
+  background-color: black;
+}
+.title{
+  font-size: 30px;
+  text-align: center;
+  font-weight: bold;
+  color: white;
+}
+.text h4{
+  text-align: left;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  color: white;
+}
+
+.text button{
+  background-color: black;
+  width: 200px;
+  height: 50px;
+  left: 1300px;
+  bottom: 620px;
+  position: absolute;
+  border-radius: 80px;
+  color: aliceblue;
+  font-size: 20px;
+  text-align:center;
+  z-index: 1;
+  box-shadow: white;
+  background-color: grey;
+}
+.text img{
+  padding-left: 20px;
+  padding-bottom: 10px;
+  width: 30px;
+  height:30px;
+  position: absolute;
+  left: 1300px;
+  bottom: 620px;
+  z-index: 2;
+}
+.drag{
+  position: absolute;
+  background-color: cyan;
+  height: 200px;
+  width: 1550px;
+  top: 570px;
+}
+.drag button{
+  background-color: white;
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  border-radius: 10px;
+  
+}
+.drag button.three{
+  
+  left: 790px;
+  top: 40px;
+}
+
+.drag button.two{
+  left: 710px;
+  top: 40px;
+}
+
+.drag button.power{
+  left: 630px;
+  top: 40px;
+}
+
+.drag button.volume{
+  left: 870px;
+  top: 40px;
+}
+/*.drag img.three{
+  height: 70px;
+  width: 70px;
+  z-index: 4;
+  position: absolute;
+  left: 790px;
+  top: 40px;
+  border-radius: 10px;
+}
+
+.drag img.two{
+  height: 70px;
+  width: 70px;
+  z-index: 4;
+  position: absolute;
+  left: 710px;
+  top: 40px;
+  border-radius: 10px;
+}
+
+.drag img.power{
+  height: 70px;
+  width: 70px;
+  z-index: 4;
+  position: absolute;
+  left: 630px;
+  top: 40px;
+  border-radius: 10px;
+}
+.drag img.volume{
+  height: 70px;
+  width: 70px;
+  z-index: 4;
+  position: absolute;
+  left: 870px;
+  top: 40px;
+  border-radius: 10px;
+}*/
+
